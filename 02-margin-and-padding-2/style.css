@@ -1,0 +1,31 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+}
+  
+.card {
+    width: 400px;
+    background: #fff;
+    margin: 8px auto;
+    padding: 8px;
+    border: 3px solid black;
+}
+
+.first {
+    background-color: lightblue;
+    margin: auto auto 8px auto;
+    border: 3px solid black;
+}
+
+.second {
+    background-color: lightblue;
+    margin: auto auto 8px auto;
+    border: 3px solid black;
+}
+
+.third {
+    background-color: lightblue;
+    margin: auto;
+    text-align: center;
+    border: 3px solid black;
+}
