@@ -1,0 +1,34 @@
+.header {
+    background-color: rgb(245, 211, 155);
+    font-family: monospace;
+    display: flex;/* defailt makes it go horizontally*/
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+}
+
+.logo {
+    background-color: white;
+    color: tomato;
+    font-size: 70px;
+    font-weight: bolder;
+    text-align: center;
+    margin: 50px;
+    padding: 8px;
+}
+
+a {
+    font-size: 22px;
+    background: white;
+    padding: 8px;
+    text-decoration: none;
+}
+  
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 10px;
+}
